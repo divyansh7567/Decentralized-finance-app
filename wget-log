@@ -1,0 +1,11 @@
+--2024-10-09 13:37:27--  https://update.code.visualstudio.com/commit:e10f2369d0d9614a452462f2e01cdc4aa9486296/server-linux-x64/stable
+Resolving update.code.visualstudio.com (update.code.visualstudio.com)... 13.107.246.58, 2620:1ec:bdf::58
+Connecting to update.code.visualstudio.com (update.code.visualstudio.com)|13.107.246.58|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://vscode.download.prss.microsoft.com/dbazure/download/stable/e10f2369d0d9614a452462f2e01cdc4aa9486296/vscode-server-linux-x64.tar.gz [following]
+--2024-10-09 13:37:27--  https://vscode.download.prss.microsoft.com/dbazure/download/stable/e10f2369d0d9614a452462f2e01cdc4aa9486296/vscode-server-linux-x64.tar.gz
+Resolving vscode.download.prss.microsoft.com (vscode.download.prss.microsoft.com)... 199.232.214.172, 199.232.210.172, 2a04:4e42:4f::684, ...
+Connecting to vscode.download.prss.microsoft.com (vscode.download.prss.microsoft.com)|199.232.214.172|:443... failed: Connection timed out.
+Connecting to vscode.download.prss.microsoft.com (vscode.download.prss.microsoft.com)|199.232.210.172|:443... failed: Connection timed out.
+Connecting to vscode.download.prss.microsoft.com (vscode.download.prss.microsoft.com)|2a04:4e42:4f::684|:443... failed: Network is unreachable.
+Connecting to vscode.download.prss.microsoft.com (vscode.download.prss.microsoft.com)|2a04:4e42:4e::684|:443... failed: Network is unreachable.
